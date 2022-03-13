@@ -1,10 +1,13 @@
+from os import path, listdir, makedirs, remove
+
 bad_words = ['Balance = 0', 'Solde : 0']
 
+if not path.exists("Removed"):
+        makedirs("Removed")
 with open('hits.txt') as oldfile, open('Removed/pointprize.txt', 'w') as newfile:
     for line in oldfile:
         if not any(bad_word in line for bad_word in bad_words):
             newfile.write(line)
-
 print(f"""
 ______                                  _   _ 
 | ___ \                                | | | |
