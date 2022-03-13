@@ -4,6 +4,6 @@
 
 - Entrez py main.py
 
-🎉 Puis un nouveau fichié nommé "pointprize.txt" sera créé dans le dossier "removed" et qui contiendra que les comptes avec des points.
+🎉 Puis un nouveau fichié nommé "pointprize.txt" sera créé dans le dossier "Removed" et qui contiendra que les comptes avec des points.
 
 Merci à vous d'utiliser mon programme ! ❤
