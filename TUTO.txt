@@ -1,0 +1,9 @@
+- Mettez votre fichier de comptes dans le dossier puis renommez le "hits"
+
+- Lancez un cmd dans le dossier (https://cdn.discordapp.com/attachments/882029855611449395/952648853276983407/unknown.png)
+
+- Entrez py main.py
+
+🎉 Puis un nouveau fichié nommé "pointprize.txt" sera créé dans le dossier "removed" et qui contiendra que les comptes avec des points.
+
+Merci à vous d'utiliser mon programme ! ❤
